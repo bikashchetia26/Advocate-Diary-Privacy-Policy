@@ -1,11 +1,8 @@
 # Privacy Policy for Advocate Diary
 Last Updated: February 2026.
-
-Welcome to Advocate Diary. Advocate Diary ("we", "our", "us") respects your privacy and is committed to protecting your personal and professional data. This Privacy Policy explains how we collect, use, store, and protect information when you use the Advocate Diary mobile application ("App").
-
-By using the App, you agree to the terms of this Privacy Policy.
-
-2. Information We Collect
+1. Welcome to Advocate Diary. Advocate Diary ("we", "our", "us") respects your privacy and is committed to protecting your personal and professional data. This Privacy Policy explains how we collect, use, store, and protect information when you use the Advocate Diary mobile application ("App"). By using the App, you agree to the terms of this Privacy Policy.
+  
+3. Information We Collect
 
 We collect the following categories of information:
 
